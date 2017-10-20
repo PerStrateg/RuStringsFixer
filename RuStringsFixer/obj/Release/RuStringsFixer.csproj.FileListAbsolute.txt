@@ -1,0 +1,9 @@
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\RuStringsFixer\RuStringsFixer\bin\Release\RuStringsFixer.exe.config
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\RuStringsFixer\RuStringsFixer\bin\Release\RuStringsFixer.exe
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\RuStringsFixer\RuStringsFixer\bin\Release\RuStringsFixer.pdb
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\RuStringsFixer\RuStringsFixer\obj\Release\RuStringsFixer.Form1.resources
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\RuStringsFixer\RuStringsFixer\obj\Release\RuStringsFixer.Properties.Resources.resources
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\RuStringsFixer\RuStringsFixer\obj\Release\RuStringsFixer.csproj.GenerateResource.Cache
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\RuStringsFixer\RuStringsFixer\obj\Release\RuStringsFixer.csproj.CoreCompileInputs.cache
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\RuStringsFixer\RuStringsFixer\obj\Release\RuStringsFixer.exe
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\RuStringsFixer\RuStringsFixer\obj\Release\RuStringsFixer.pdb

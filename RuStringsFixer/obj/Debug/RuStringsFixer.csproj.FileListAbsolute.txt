@@ -1,0 +1,10 @@
+c:\users\snuux\documents\visual studio 2017\Projects\RuStringsFixer\RuStringsFixer\bin\Debug\RuStringsFixer.exe.config
+c:\users\snuux\documents\visual studio 2017\Projects\RuStringsFixer\RuStringsFixer\bin\Debug\RuStringsFixer.exe
+c:\users\snuux\documents\visual studio 2017\Projects\RuStringsFixer\RuStringsFixer\bin\Debug\RuStringsFixer.pdb
+c:\users\snuux\documents\visual studio 2017\Projects\RuStringsFixer\RuStringsFixer\obj\Debug\RuStringsFixer.csprojResolveAssemblyReference.cache
+c:\users\snuux\documents\visual studio 2017\Projects\RuStringsFixer\RuStringsFixer\obj\Debug\RuStringsFixer.Properties.Resources.resources
+c:\users\snuux\documents\visual studio 2017\Projects\RuStringsFixer\RuStringsFixer\obj\Debug\RuStringsFixer.csproj.GenerateResource.Cache
+c:\users\snuux\documents\visual studio 2017\Projects\RuStringsFixer\RuStringsFixer\obj\Debug\RuStringsFixer.csproj.CoreCompileInputs.cache
+c:\users\snuux\documents\visual studio 2017\Projects\RuStringsFixer\RuStringsFixer\obj\Debug\RuStringsFixer.exe
+c:\users\snuux\documents\visual studio 2017\Projects\RuStringsFixer\RuStringsFixer\obj\Debug\RuStringsFixer.pdb
+c:\users\snuux\documents\visual studio 2017\Projects\RuStringsFixer\RuStringsFixer\obj\Debug\RuStringsFixer.Form1.resources
